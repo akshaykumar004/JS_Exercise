@@ -1,4 +1,5 @@
 /* --------------------------------- Day 2: Operators - 20 July 2024 01:46 AM ----------------------------------------
+
 Tasks/Activities:-
 
 Activity 1: Arithmetic Operations
