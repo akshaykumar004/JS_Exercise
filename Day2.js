@@ -147,3 +147,4 @@ let number1 = -9070.09890
 
 finalresult = number1 >= 0 ? "Positive" : "Negative"
 
+console.log("Using ? : Operator:", finalresult);
